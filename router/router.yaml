@@ -58,3 +58,13 @@ coprocessor:
     response:
       body: true
 ### --------------------------------------
+# Persisted things
+preview_persisted_queries:
+  enabled: true
+  safelist:
+    enabled: true
+    require_id: false
+apq:
+  enabled: false
+### --------------------------------------
+
